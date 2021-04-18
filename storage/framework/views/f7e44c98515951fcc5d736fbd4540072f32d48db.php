@@ -1,0 +1,1 @@
+<!-- <h5>Copyright @2018  My Own Company Name</h5> --><?php /**PATH C:\Users\Alexv\Documents\1.LaravelWorkspace\MilestonePHP3\resources\views/layouts/footer.blade.php ENDPATH**/ ?>
